@@ -1,4 +1,6 @@
-set nocompatible
+colorscheme peachpuff
+
+syntax on
 
 filetype on
 
@@ -6,13 +8,13 @@ filetype plugin on
 
 filetype indent on
 
-syntax on
+set tabstop=4
+
+set shiftwidth=4
+
+set nocompatible
 
 set number
-
-colorscheme peachpuff
-
-set tabstop=4
 
 set expandtab
 
