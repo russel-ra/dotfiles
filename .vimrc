@@ -8,20 +8,18 @@ filetype plugin on
 
 filetype indent on
 
+set ruler
+
+set number
+
+set expandtab
+
+set breakindent
+
+set nocompatible
+
 set tabstop=4
 
 set shiftwidth=4
 
-set nocompatible
-
-set number
-
-set shiftwidth=4
-
 set softtabstop=4
-
-set expandtab
-
-set ruler
-
-set breakindent
