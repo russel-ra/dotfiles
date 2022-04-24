@@ -1,4 +1,4 @@
-colorscheme peachpuff
+colorscheme pablo
 
 syntax on
 
